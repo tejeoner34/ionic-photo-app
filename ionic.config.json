@@ -1,0 +1,7 @@
+{
+  "name": "practiceApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
